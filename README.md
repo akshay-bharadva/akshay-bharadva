@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hey 👋, I'm [Akshay Bhatradva](https://github.com/thinketh19) 👨‍💻
+## Hey 👋, I'm [Akshay Bharadva](https://github.com/thinketh19) 👨‍💻
 
 <br>
 
