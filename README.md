@@ -26,7 +26,9 @@ Here are some ideas to get you started:
  </a>
 </p>
 
-<h2 align="center">Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
+<h2 align="center">Tech Stack 
+<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> -->
+</h2>
 
 <p align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
@@ -62,3 +64,14 @@ Here are some ideas to get you started:
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 <br>
+<!-- <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-bharadva&show_icons=true&locale=en&layout=compact" alt="akshay-bharadva"  />
+</p> -->
+<br/>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-bharadva&show_icons=true&locale=en" alt="akshay-bharadva"  />
+</p>
+<br/>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-bharadva&" alt="akshay-bharadva"  />
+</p>
