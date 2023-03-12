@@ -9,7 +9,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img width="100%" src="resources/banner/banner-minimal.gif" alt="akshay-bharadva-banner" style="object-fit:cover;">
+</p>
 
+<br/>
 
 ## Hey 👋, I'm [Akshay Bharadva](https://github.com/akshay-bharadva) 👨‍💻
 
@@ -18,11 +22,12 @@ Here are some ideas to get you started:
 ## A Fullstack Developer, Reader and A Good Friend!
 
 <!-- - 🔭 I just deployed my portfolio: [Rutam From Web Tech][website]! -->
-- 🌱 I’m currently learning everything 🤣
+
+- 🌱 I’m currently learning 🐍 `hello-world.py`
 - 😄 Pronouns: He/Him
 - 🤔 I’m looking for help with my career. <!-- and love-life. -->
 - 👯 I’m looking to collaborate with other developers or open source organization.
-- 🥅 Goals: Contribute more to Open Source projects | Stay alive 
+- 🥅 Goals: Contribute more to Open Source projects | Stay alive
 - ⚡ Fun fact: I love to play game on Mobile and PC and I'm very bad chef coz I hate cooking.
 
 <br/>
@@ -87,3 +92,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-bharadva&" alt="akshay-bharadva" />
 </p>
+<br/>
+<h2 align="center">Show some&nbsp;❤️&nbsp;by starring some of the repositories!</h3>
