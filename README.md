@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## A Fullstack Developer, Reader and A Good Friend!
 
-<!-- - 🔭 I just deployed my portfolio: [Rutam From Web Tech][website]! -->
+<!-- - 🔭 I just deployed my portfolio: [Akshay Bharadva From Web Tech][website]! -->
 
 - 🌱 I’m currently learning 🐍 `hello-world.py`
 - 😄 Pronouns: He/Him
