@@ -93,4 +93,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-bharadva&" alt="akshay-bharadva" />
 </p>
 <br/>
-<h2 align="center">Show some&nbsp;❤️&nbsp;by starring some of the repositories!</h3>
+<h2 align="center">Show some&nbsp;❤️&nbsp;by starring some of the repositories!</h2>
