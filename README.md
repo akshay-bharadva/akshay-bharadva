@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## Hey 👋, I'm [Akshay Bharadva](https://github.com/akshay-bharadva) 👨‍💻
+## Hey 👋, I'm [Akshay Bharadva](https://github.com/akshay-bharadva)
 
 <br/>
 
@@ -29,23 +29,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other developers or open source organization.
 - 🥅 Goals: Contribute more to Open Source projects | Stay alive
 - ⚡ Fun fact: I love to play game on Mobile and PC and I'm very bad chef coz I hate cooking.
+- 📫 How to reach me: [Akshay Bharadva](https://www.linkedin.com/in/akshay-bharadva/)
 
 <br/>
 
-<h2 align="center">Reach me on</h2>
-
-<p align="center">
- <a href="mailto:akshaybharadva19@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25/>
- </a> 
- <a href="https://www.linkedin.com/in/akshay-bharadva/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25/>
- </a>
-</p>
-
-<h2 align="center">Tech Stack 
-<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/> -->
-</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
@@ -81,6 +69,19 @@ Here are some ideas to get you started:
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 <br>
+
+<h2 align="center">Tool I Use</h2>
+
+<p align="center">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  &nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>
+  &nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>
+  &nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+<br/>
 <!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-bharadva&show_icons=true&locale=en&layout=compact" alt="akshay-bharadva" />
 </p> -->
