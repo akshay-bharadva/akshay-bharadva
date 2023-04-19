@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="resources/banner/banner-minimal.gif" alt="akshay-bharadva-banner" style="object-fit:cover;">
-</p>
+</p> -->
 
 <br/>
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## A Fullstack Developer, Reader and A Good Friend!
+### A Fullstack Developer, Reader and A Good Friend!
 
 <!-- - 🔭 I just deployed my portfolio: [Akshay Bharadva From Web Tech][website]! -->
 
@@ -55,6 +55,7 @@ Here are some ideas to get you started:
  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40"/>
   &nbsp;
 </p>
+
 <p align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>
   &nbsp;
@@ -66,6 +67,7 @@ Here are some ideas to get you started:
   &nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </p>
+
 <br>
 
 <h2 align="center">Tool I Use</h2>
@@ -80,16 +82,23 @@ Here are some ideas to get you started:
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 <br/>
+
 <!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-bharadva&show_icons=true&locale=en&layout=compact" alt="akshay-bharadva" />
 </p> -->
+
 <br/>
-<p align="center">
+
+<!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-bharadva&show_icons=true&locale=en" alt="akshay-bharadva" />
-</p>
-<br/>
-<p align="center">
+</p> -->
+
+<!-- <br/> -->
+
+<!-- <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-bharadva&" alt="akshay-bharadva" />
-</p>
-<br/>
-<h2 align="center">Show some&nbsp;❤️&nbsp;by starring some of the repositories!</h2>
+</p> -->
+
+<!-- <br/> -->
+
+<p align="center">Show some&nbsp;❤️&nbsp;by starring some of the repositories!</p>
