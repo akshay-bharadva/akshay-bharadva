@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<h2 align="center">Tech Stack</h2>
+<!-- <h2 align="center">Tech Stack</h2>
 
 <p align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
@@ -54,9 +54,9 @@ Here are some ideas to get you started:
   &nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40"/>
   &nbsp;
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>
   &nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40"/>
@@ -66,11 +66,11 @@ Here are some ideas to get you started:
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
   &nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</p>
+</p> -->
 
-<br>
+<!-- <br> -->
 
-<h2 align="center">Tool I Use</h2>
+<!-- <h2 align="center">Tool I Use</h2>
 
 <p align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
@@ -80,8 +80,9 @@ Here are some ideas to get you started:
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>
   &nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
-</p>
-<br/>
+</p> -->
+
+<!-- <br/> -->
 
 <!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-bharadva&show_icons=true&locale=en&layout=compact" alt="akshay-bharadva" />
