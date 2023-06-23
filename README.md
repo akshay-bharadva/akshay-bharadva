@@ -15,20 +15,17 @@ Here are some ideas to get you started:
 
 <br/>
 
-## Hey 👋, I'm [Akshay Bharadva](https://github.com/akshay-bharadva)
+## Hey 👋, I'm Akshay Bharadva, Full stack developer
 
-<br/>
+### A Fullstack Developer, Reader, and Good Friend!
 
-### A Fullstack Developer, Reader and A Good Friend!
-
-<!-- - 🔭 I just deployed my portfolio: [Akshay Bharadva From Web Tech][website]! -->
-
-- 🌱 I’m currently learning 🐍 `hello-world.py`
+- 🔭 I just deployed my portfolio: [Akshay Bharadva](https://akshay-bharadva.github.io/)!
+- 🌱 I’m currently learning 🐍 `hello-world.py`, and about to finish [`CS50P`](https://cs50.harvard.edu/python/2022/)
 - 😄 Pronouns: He/Him
 - 🤔 I’m looking for help with my career. <!-- and love-life. -->
-- 👯 I’m looking to collaborate with other developers or open source organization.
+- 👯 I’m looking to collaborate with other developers or open-source developers and organizations.
 - 🥅 Goals: Contribute more to Open Source projects | Stay alive
-- ⚡ Fun fact: I love to play game on Mobile and PC and I'm very bad chef coz I hate cooking.
+- ⚡ Fun fact: I love to play games on Mobile and PC and I'm a very bad chef coz I hate cooking.
 - 📫 How to reach me: [Akshay Bharadva](https://www.linkedin.com/in/akshay-bharadva/)
 
 <br/>
@@ -102,4 +99,4 @@ Here are some ideas to get you started:
 
 <!-- <br/> -->
 
-<p align="center">Show some&nbsp;❤️&nbsp;by starring some of the repositories!</p>
+<p align="center">Show some 💙 by starring some of the repositories!</p>
